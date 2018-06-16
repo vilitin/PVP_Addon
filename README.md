@@ -1,4 +1,7 @@
-# PVP_Addon
+#  PVP_Addon
+#  Безопасная территория для Tinus World
+
+
 Allows you set safe zones in the world.
 
 - Still in early development.
